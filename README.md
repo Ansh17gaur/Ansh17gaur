@@ -14,7 +14,7 @@
 - 🔭 Currently working on: **Leet-Code** (CP analytics) and **streak-cal** (streak-based productivity).
 - 🌱 Learning: **Python**, **GitHub Actions**, **data pipelines**, and automation for real-world tasks.
 - 💬 Ask me about: **modular Python**, **GitHub automation**, **competitive programming**, and beginner-friendly **data workflows**.
-- 🧠 Interested in: ML, data engineering, DevOps basics, and hackathon-style full-stack apps.
+- 🧠 Interested in: ML, data engineering, DevOps basics, and hackathon-style full-stack appss.
 - 📫 Reach me at: **[ansh1291g@gmail.com](mailto:ansh1291g@gmail.com)**
 
 ---
