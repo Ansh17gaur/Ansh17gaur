@@ -24,7 +24,7 @@
 - ✨ Write **readable** and **modular** code that even a beginner can follow.
 - 📦 Prefer small, well-structured **modules** over giant scripts.
 - 🔁 Automate boring tasks and free time for **problem solving** and **learning**.
-- 📚 Learn by **building real projects**, not just watching tutorials.
+- 📚 Learn by **building real projects**, not just watching tutorials..
 
 ---
 
