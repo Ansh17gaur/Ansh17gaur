@@ -1,1 +1,45 @@
-<!-- 🚀 Futuristic Neon Banner --> <p align="center"> <img src="https://copilot.microsoft.com/th/id/BCO.4ff402c4-d554-4a06-b28c-3964b249847e.png" alt="Animated Welcome Banner" width="100%" /> </p> <!-- 🖋️ Typing Intro Animation --> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Universe!;Modular+Python+Pipelines+Architect;Machine+Learning+Explorer;Competitive+Programming+Strategist;Always+learning+and+building..." alt="Typing SVG" /> </a> </p>
+<!-- 🎯 Banner -->
+<img src="https://your-banner-url.com/banner.png" alt="Welcome Banner" width="100%" />
+
+<!-- 👋 Introduction -->
+## Hi there 👋, I am Ansh Gaur
+- 🔭 Currently working on: Leet-Code, streak-cal
+- 🌱 Learning: Python, GitHub workflows, data pipelines
+- 💬 Ask me about: modular Python, GitHub automation, competitive programming
+- 📫 Reach me at: [ansh1291g@gmail.com](mailto:ansh1291g@gmail.com)
+
+---
+
+<!-- 🔥 GitHub Streak -->
+### 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Ansh17gaur&theme=tokyonight&hide_border=true)](https://github-readme-streak-stats-eight.vercel.app/demo/)
+
+<!-- 📊 GitHub Stats -->
+### 📊 GitHub Stats
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansh17gaur&show_icons=true&theme=tokyonight)
+
+<!-- 🧠 Top Languages -->
+### 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh17gaur&layout=compact&theme=tokyonight)
+
+---
+
+<!-- 🛠️ Tech Stack -->
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<!-- 👁️ Visitor Counter -->
+![Visitor Count](https://komarev.com/ghpvc/?username=Ansh17gaur&color=blue)
+
+---
+
+<!-- 🧾 Footer -->
+📌 Built with ❤️ by Ansh Gaur
+
+
+
+
