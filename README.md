@@ -1,6 +1,6 @@
-<!-- 🎯 Banner -->
+<!-- Simple Hello Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ansh%20Gaur&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=7dcfff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=lightblue&height=100&section=header&text=Hello%20Ansh!&fontSize=40&fontColor=000000" width="100%" />
 </p>
 
 <!-- 👋 Introduction -->
