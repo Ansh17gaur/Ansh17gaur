@@ -24,6 +24,11 @@
 
 ---
 
+### 🧊 3D Contributions
+
+![3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=Ansh17gaur&theme=tokyo-night)
+
+
 <!-- 🛠️ Tech Stack -->
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
