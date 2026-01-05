@@ -3,28 +3,31 @@
 
 <!-- 👋 Introduction -->
 ## Hi there 👋, I am Ansh Gaur
-- 🔭 Currently working on: Leet-Code, streak-cal
+- 🔭 Currently working on: LeetCode, streak-cal
 - 🌱 Learning: Python, GitHub workflows, data pipelines
 - 💬 Ask me about: modular Python, GitHub automation, competitive programming
 - 📫 Reach me at: [ansh1291g@gmail.com](mailto:ansh1291g@gmail.com)
 
 ---
-<!-- 🔥 badges -->
-### 🔥 badges
+
+<!-- 🔥 Badges -->
+### 🔥 Badges
 <table align="center">
+  <tr>
+    <td align="center">
+      <a href="Coursera%200008BXFH96S4.pdf">
+        <img src="https://img.shields.io/badge/Coursera-Certificate-blue?style=for-the-badge" alt="Certificate Badge"/>
+      </a><br/>
+      <sub><b>Data Science Orientation</b></sub>
+    </td>
+  </tr>
+</table>
 
-<!-- Row 1 -->
-<tr>
-  <td align="center">
-    <img src="Coursera 0008BXFH96S4.pdf" width="250px" alt="Certificate 1"/><br/>
-    <sub><b>Data Science Orientation</b></sub>
-  </td>
-
-
+---
 
 <!-- 🔥 GitHub Streak -->
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Ansh17gaur&theme=tokyonight&hide_border=true)](https://github-readme-streak-stats-eight.vercel.app/demo/)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=Ansh17gaur&theme=tokyonight&hide_border=true)](https://github-readme-streak-stats.vercel.app)
 
 <!-- 📊 GitHub Stats -->
 ### 📊 GitHub Stats
@@ -36,10 +39,11 @@
 
 ---
 
+<!-- 🧊 3D Contributions -->
 ### 🧊 3D Contributions
-
 ![3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=Ansh17gaur&theme=tokyo-night)
 
+---
 
 <!-- 🛠️ Tech Stack -->
 ### 🛠️ Tech Stack
@@ -56,7 +60,3 @@
 
 <!-- 🧾 Footer -->
 📌 Built with ❤️ by Ansh Gaur
-
-
-
-
