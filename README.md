@@ -3,7 +3,7 @@
 
 <!-- 👋 Introduction -->
 ## Hi there 👋, I am Ansh Gaur
-- 🔭 Currently working on: LeetCode, streak-cal
+- 🔭 Currently working on: Leet-Code, streak-cal
 - 🌱 Learning: Python, GitHub workflows, data pipelines
 - 💬 Ask me about: modular Python, GitHub automation, competitive programming
 - 📫 Reach me at: [ansh1291g@gmail.com](mailto:ansh1291g@gmail.com)
@@ -12,7 +12,7 @@
 
 <!-- 🔥 GitHub Streak -->
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=Ansh17gaur&theme=tokyonight&hide_border=true)](https://github-readme-streak-stats.vercel.app)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Ansh17gaur&theme=tokyonight&hide_border=true)](https://github-readme-streak-stats-eight.vercel.app/demo/)
 
 <!-- 📊 GitHub Stats -->
 ### 📊 GitHub Stats
@@ -32,12 +32,6 @@
 
 ---
 
-<!-- 🐍 Contribution Snake -->
-### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Ansh17gaur/Ansh17gaur/output/github-contribution-grid-snake.svg)
-
----
-
 <!-- 👁️ Visitor Counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ansh17gaur&color=blue)
 
@@ -45,3 +39,7 @@
 
 <!-- 🧾 Footer -->
 📌 Built with ❤️ by Ansh Gaur
+
+
+
+
