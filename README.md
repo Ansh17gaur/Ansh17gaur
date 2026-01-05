@@ -9,6 +9,17 @@
 - 📫 Reach me at: [ansh1291g@gmail.com](mailto:ansh1291g@gmail.com)
 
 ---
+badges 
+<table align="center">
+
+<!-- Row 1 -->
+<tr>
+  <td align="center">
+    <img src="         " width="250px" alt="Certificate 1"/><br/>
+    <sub><b>Data Science Orientation</b></sub>
+  </td>
+
+
 
 <!-- 🔥 GitHub Streak -->
 ### 🔥 GitHub Streak
