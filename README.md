@@ -9,13 +9,14 @@
 - 📫 Reach me at: [ansh1291g@gmail.com](mailto:ansh1291g@gmail.com)
 
 ---
-badges 
+<!-- 🔥 badges -->
+### 🔥 badges
 <table align="center">
 
 <!-- Row 1 -->
 <tr>
   <td align="center">
-    <img src="         " width="250px" alt="Certificate 1"/><br/>
+    <img src="Coursera 0008BXFH96S4.pdf" width="250px" alt="Certificate 1"/><br/>
     <sub><b>Data Science Orientation</b></sub>
   </td>
 
