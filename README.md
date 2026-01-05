@@ -15,13 +15,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="Coursera%200008BXFH96S4.pdf">
-        <img src="https://img.shields.io/badge/Coursera-Certificate-blue?style=for-the-badge" alt="Certificate Badge"/>
-      </a><br/>
+      <img src="https://raw.githubusercontent.com/Ansh17gaur/ansh17g/main/Coursera 0008BXFH96S4.pdf" width="250px" alt="Certificate 1"/><br/>
       <sub><b>Data Science Orientation</b></sub>
     </td>
   </tr>
 </table>
+
 
 ---
 
