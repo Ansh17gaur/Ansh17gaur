@@ -36,7 +36,6 @@
 
 ![snake gif](https://github.com/Ansh17gaur/Ansh17gaur/blob/output/github-contribution-grid-snake.svg)
 
----
 
 <!-- 👁️ Visitor Counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ansh17gaur&color=blue)
