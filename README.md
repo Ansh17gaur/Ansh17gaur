@@ -71,21 +71,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh17gaur&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
----
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,js,html&theme=dark" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ansh17gaur&color=7dcfff&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-</p>
 
 <p align="center">📌 Built with ❤️ by <b>Ansh Gaur</b></p>
