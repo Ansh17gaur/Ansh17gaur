@@ -31,7 +31,7 @@
 
 <h2>🐍 System Processes</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnkitShukla-arch/AnkitShukla-arch/output/github-contribution-grid-snake-dark.svg" width="850">
+  <img src="https://raw.githubusercontent.com/Ansh17gaur/Ansh17gaur/output/github-contribution-grid-snake-dark.svg" width="850">
 </p>
 
 ---
@@ -40,8 +40,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ansh17gaur&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
----
 
 ---
 
