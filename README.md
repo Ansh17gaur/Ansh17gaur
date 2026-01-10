@@ -1,7 +1,4 @@
-<!-- Simple Hello Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=lightblue&height=100&section=header&text=Hello%20Ansh!&fontSize=40&fontColor=000000" width="100%" />
-</p>
+
 
 
 <p align="center">
