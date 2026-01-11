@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Mee
+### 🚀 About Me
 
 - 🔭 Currently working on: **LeetCode, streak-cal**
 - 🌱 Learning: **Python, GitHub workflows, data pipelines**
