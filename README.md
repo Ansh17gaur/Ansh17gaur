@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on: **LeetCode, streak-cal**
-- 🌱 Learning: **Python, GitHub workflows, data pipeline**
+- 🌱 Learning: **Python, GitHub workflows, data pipelines**
 - 💬 Ask me about: **Modular Python, GitHub automation, competitive programming**
 - 📫 Reach me at: **ansh1291g@gmail.com**
 
