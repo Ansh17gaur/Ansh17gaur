@@ -1,3 +1,18 @@
+![LeetCode Streak](https://img.shields.io/badge/LeetCode_Streak-Loading...-orange?logo=leetcode)
+
+
+import requests
+from datetime import datetime, timedelta
+
+def get_streak(anshgaurx):
+    # Fetch submission history (via unofficial API or scraping)
+    # Parse dates and count consecutive days
+    return streak_count
+
+def update_badge(streak):
+    # Write to README or a badge config file
+    badge_url = f"https://img.shields.io/badge/LeetCode_Streak-{streak}_days-orange?logo=leetcode"
+    # Replace old badge line in README.md
 
 
 
