@@ -53,8 +53,8 @@ def update_badge(streak):
 ## 🧩 Coding Profiles
 
 <p align="center">
-  <img src="cool (2).png" alt="LeetCode Frequency Grid" width="400"/>
-  <img src="Screenshot (806).png" alt="HackerRank Profile Badge" width="400"/>
+  <img src="./cool%20(2).png" alt="LeetCode Frequency Grid" width="400" style="vertical-align: middle;"/>
+  <img src="./Screenshot%20(806).png" alt="" width="400" style="vertical-align: middle;"/>
 </p>
 
 <p align="center">
