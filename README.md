@@ -1,17 +1,6 @@
 ###LEETCODE
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anshgaurx?ext=activity)
 
-## 🧩 LeetCode Activity
-
-
-<img src="./cool (2).png" alt="LeetCode Frequency Grid" width="400"/>
-📅 Updated: Jan 24, 2026  
-🔗 [View My LeetCode Profile](https://leetcode.com/anshgaurx/)
-
-
-
-
-
 import requests
 from datetime import datetime, timedelta
 
@@ -46,7 +35,7 @@ def update_badge(streak):
 
 
 <p align="center">
-  <img src="./cool%20(2).png" alt="LeetCode Frequency Grid" width="450" style="vertical-align: middle;"/>
+  <img src="./cool%20(2).png" alt="LeetCode Frequency Grid" width="480" style="vertical-align: middle;"/>
   <img src="./Screenshot%20(806).png" alt="" width="400" style="vertical-align: middle;"/>
 </p>
 
