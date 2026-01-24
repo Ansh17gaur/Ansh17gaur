@@ -1,5 +1,5 @@
 ###LEETCODE
-###![LeetCode Stats](https://leetcard.jacoblin.cool/anshgaurx?ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/anshgaurx?ext=activity)
 
 import requests
 from datetime import datetime, timedelta
