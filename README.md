@@ -1,4 +1,5 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/anshgaurx?ext=activity)
+![LeetCode Activity](https://raw.githubusercontent.com/yourusername/yourrepo/main/leetgraph.svg)
+
 
 import requests
 from datetime import datetime, timedelta
