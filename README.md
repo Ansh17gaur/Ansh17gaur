@@ -41,16 +41,9 @@ def update_badge(streak):
 - 💬 Ask me about: **Modular Python, GitHub automation, competitive programming**
 - 📫 Reach me at: **ansh1291g@gmail.com**
 
+### 🧩 Coding Profiles
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-  <a href="https://github-readme-streak-stats.vercel.app">
-    <img src="https://github-readme-streak-stats.vercel.app?user=Ansh17gaur&theme=tokyonight&hide_border=true&background=1a1b27" />
-  </a>
-</p>
----
-## 🧩 Coding Profiles
 
 <p align="center">
   <img src="./cool%20(2).png" alt="LeetCode Frequency Grid" width="400" style="vertical-align: middle;"/>
