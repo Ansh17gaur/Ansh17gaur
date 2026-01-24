@@ -46,7 +46,7 @@ def update_badge(streak):
 
 
 <p align="center">
-  <img src="./cool%20(2).png" alt="LeetCode Frequency Grid" width="400" style="vertical-align: middle;"/>
+  <img src="./cool%20(2).png" alt="LeetCode Frequency Grid" width="450" style="vertical-align: middle;"/>
   <img src="./Screenshot%20(806).png" alt="" width="400" style="vertical-align: middle;"/>
 </p>
 
@@ -55,6 +55,8 @@ def update_badge(streak):
   <a href="https://www.hackerrank.com/anshxgaur">🔗 HackerRank Profile</a>
 </p>
 
+---
+📅 Updated: Jan 24, 2026  
 ---
 ### 📊 GitHub Stats
 <p align="center">
