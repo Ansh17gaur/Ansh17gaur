@@ -1,5 +1,4 @@
-![LeetCode Streak](https://img.shields.io/badge/LeetCode_Streak-Loading...-orange?logo=leetcode)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/anshgaurx?ext=activity)
 
 import requests
 from datetime import datetime, timedelta
