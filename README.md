@@ -3,13 +3,13 @@
 
 ## 🧩 LeetCode Activity
 
-![LeetCode Frequency Grid](./cool%20(2).png)
 
+<img src="./cool.png" alt="LeetCode Frequency Grid" width="400"/>
 📅 Updated: Jan 24, 2026  
 🔗 [View My LeetCode Profile](https://leetcode.com/anshgaurx/)
 
 
-📅 Updated: Jan 24, 2026
+
 
 
 import requests
