@@ -35,8 +35,8 @@ def update_badge(streak):
 
 
 <p align="center">
-  <img src="./cool%20(2).png" alt="LeetCode Frequency Grid" width="475" style="vertical-align: middle;"/>
-  <img src="./Screenshot%20(806).png" alt="" width="400" style="vertical-align: middle;"/>
+  <img src="./cool%20(2).png" alt="LeetCode Frequency Grid" width="575" style="vertical-align: middle;"/>
+  <img src="./Screenshot%20(806).png" alt="" width="500" style="vertical-align: middle;"/>
 </p>
 
 <p align="center">
