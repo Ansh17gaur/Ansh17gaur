@@ -4,7 +4,7 @@
 ## 🧩 LeetCode Activity
 
 
-<img src="./cool.png" alt="LeetCode Frequency Grid" width="400"/>
+<img src="./cool (2).png" alt="LeetCode Frequency Grid" width="400"/>
 📅 Updated: Jan 24, 2026  
 🔗 [View My LeetCode Profile](https://leetcode.com/anshgaurx/)
 
