@@ -1,4 +1,9 @@
-![LeetCode Activity](https://raw.githubusercontent.com/yourusername/yourrepo/main/leetgraph.svg)
+###LEETCODE
+![LeetCode Stats](https://leetcard.jacoblin.cool/anshgaurx?ext=activity)
+
+![LeetCode Frequency Grid](./cool.png)
+
+📅 Updated: Jan 24, 2026
 
 
 import requests
