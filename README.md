@@ -49,16 +49,20 @@ def update_badge(streak):
     <img src="https://github-readme-streak-stats.vercel.app?user=Ansh17gaur&theme=tokyonight&hide_border=true&background=1a1b27" />
   </a>
 </p>
-
 ---
+## 🧩 Coding Profiles
 
-<h2>🐍 System Processes</h2>
 <p align="center">
- <img src="https://raw.githubusercontent.com/Ansh17gaur/Ansh17gaur/output/github-contribution-grid-snake.svg" width="850">
+  <img src="cool (2).png" alt="LeetCode Frequency Grid" width="400"/>
+  <img src="Screenshot (806).png" alt="HackerRank Profile Badge" width="400"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/anshgaurx/">🔗 LeetCode Profile</a> |
+  <a href="https://www.hackerrank.com/anshxgaur">🔗 HackerRank Profile</a>
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ansh17gaur&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
