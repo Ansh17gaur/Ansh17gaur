@@ -1,7 +1,13 @@
 ###LEETCODE
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anshgaurx?ext=activity)
 
-![LeetCode Frequency Grid](./cool (2).png)
+## 🧩 LeetCode Activity
+
+![LeetCode Frequency Grid](./cool%20(2).png)
+
+📅 Updated: Jan 24, 2026  
+🔗 [View My LeetCode Profile](https://leetcode.com/anshgaurx/)
+
 
 📅 Updated: Jan 24, 2026
 
