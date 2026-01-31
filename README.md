@@ -1,39 +1,29 @@
-import requests
-from datetime import datetime, timedelta
-
-def get_streak(anshgaurx):
-    # Fetch submission history (via unofficial API or scraping)
-    # Parse dates and count consecutive days
-    return streak_count
-
-def update_badge(streak):
-    # Write to README or a badge config file
-    badge_url = f"https://img.shields.io/badge/LeetCode_Streak-{streak}_days-orange?logo=leetcode"
-    # Replace old badge line in README.md
-
-
-
 <p align="center">
   <a href="mailto:ansh1291g@gmail.com"><img src="https://img.shields.io/badge/Email-7dcfff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://github.com/Ansh17gaur"><img src="https://img.shields.io/badge/GitHub-bb9af7?style=for-the-badge&logo=github&logoColor=black" /></a>
+</p>
+
+<h1 align="center">Hi, I'm Ansh Gaur 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Python+Developer;Automation+Enthusiast;Competitive+Programmer;Building+Data+Pipelines" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **LeetCode, streak-cal**
-- 🌱 Learning: **Python, GitHub workflows, data pipelines**
-- 💬 Ask me about: **Modular Python, GitHub automation, competitive programming**
-- 📫 Reach me at: **ansh1291g@gmail.com**
+- 🔭 **Currently working on:** Automated LeetCode streak trackers and data pipelines.
+- 🌱 **Learning:** Advanced GitHub Workflows and Modular Python architecture.
+- 💬 **Ask me about:** Python automation, scraping, and logic building.
+- 📫 **Reach me at:** [ansh1291g@gmail.com](mailto:ansh1291g@gmail.com)
 
-### 🧩 Coding Profiles
 ---
 
+### 🧩 Coding Profiles & Stats
 
 <p align="center">
-  <img src="./cool%20(2).pngg" alt="LeetCode Frequency Grid" width="475" style="vertical-align: middle;"/>
-  <img src="happy.pngg" alt="" width="470" style="vertical-align: middle;"/>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=anshgaurx&theme=tokyonight" alt="LeetCode Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ansh17gaur&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
@@ -42,20 +32,23 @@ def update_badge(streak):
 </p>
 
 ---
-📅 Updated: Jan 24, 2026  
+
+### 📊 Weekly Coding Activity (WakaTime)
 ---
-### 📊 GitHub Stats
+
+### 🐍 Contribution Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansh17gaur&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github.com/Ansh17gaur/Ansh17gaur/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-### 📈 GitHub Activity Graph
+### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh17gaur&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh17gaur&theme=tokyo-night&area=true" width="100%" alt="Activity Graph" />
 </p>
 
-
-
-<p align="center">📌 Built with ❤️ by <b>Ansh Gaur</b></p>
+<p align="center">
+  📅 <i>Last Updated: Jan 31, 2026</i><br>
+  📌 Built with ❤️ by <b>Ansh Gaur</b>
+</p>
