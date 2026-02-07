@@ -9,6 +9,15 @@
 </p>
 
 ---
+<h2>🧠 System Activity — Current Operations</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00BFFF&multiline=true&width=950&height=160&lines=🕵️‍♂️+HELLO WORLD;🎞️+HELLO JOB...;☁️HELLO COOL...;🔮+HELLO JOB...;🚀+HELLO BBB...;+%7C&repeat=True" alt="System Activity Animation">
+</p>
+
+---
+
+
 
 ### 🚀 About Me
 
