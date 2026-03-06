@@ -41,23 +41,65 @@
 </p>
 
 ---
+<table align="center">
+<tr>
+  <td align="center">
+    <img src="what is data science.png" width="250" alt="Certificate 1"/><br/>
+    <sub><b>What is Data Science</b></sub>
+  </td>
+  <td align="center">
+    <img src="tools for data science.png" width="250" alt="Certificate 2"/><br/>
+    <sub><b>Tools for Data Science</b></sub>
+  </td>
+  <td align="center">
+    <img src="data science methodology.png" width="250" alt="Certificate 3"/><br/>
+    <sub><b>Data Science Methodology</b></sub>
+  </td>
+  <td align="center">
+    <img src="python for data science.png" width="250" alt="Certificate 4"/><br/>
+    <sub><b>Python for Data Science</b></sub>
+  </td>
+  <td align="center">
+    <img src="python project for data science.png" width="250" alt="Certificate 5"/><br/>
+    <sub><b>Python Project for Data Science</b></sub>
+  </td>
+</tr>
 
-### 📊 Weekly Coding Activity (WakaTime)
----
+<tr>
+  <td align="center">
+    <img src="data base and sql.png" width="250" alt="Certificate 6"/><br/>
+    <sub><b>Databases and SQL</b></sub>
+  </td>
+  <td align="center">
+    <img src="data analysis with python.png" width="250" alt="Certificate 7"/><br/>
+    <sub><b>Data Analysis with Python</b></sub>
+  </td>
+  <td align="center">
+    <img src="data_visualization.png" width="250" alt="Certificate 8"/><br/>
+    <sub><b>Data Visualization with Python</b></sub>
+  </td>
+  <td align="center">
+    <img src="machine_learning.png" width="250" alt="Certificate 9"/><br/>
+    <sub><b>Machine Learning</b></sub>
+  </td>
+  <td align="center">
+    <img src="applied_data_science.png" width="250" alt="Certificate 10"/><br/>
+    <sub><b>Applied Data Science</b></sub>
+  </td>
+</tr>
 
-### 🐍 Contribution Journey
-<p align="center">
-  <img src="https://github.com/Ansh17gaur/Ansh17gaur/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+<tr>
+  <td align="center">
+    <img src="Screenshot (835).png" width="250" alt="Certificate 11"/><br/>
+    <sub><b>Generative AI: Elevate Your Data Science Career</b></sub>
+  </td>
+  <td align="center">
+    <img src="Screenshot (842).png" width="250" alt="Certificate 12"/><br/>
+    <sub><b>Data Science Career Guide</b></sub>
+  </td>
+  <td align="center">
+    <img src="ibm.png" width="250" alt="Certificate 13"/><br/>
+    <sub><b>IBM Data Science</b></sub>
 
----
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh17gaur&theme=tokyo-night&area=true" width="100%" alt="Activity Graph" />
-</p>
 
-<p align="center">
-  📅 <i>Last Updated: Jan 31, 2026</i><br>
-  📌 Built with ❤️ by <b>Ansh Gaur</b>
-</p>
