@@ -16,7 +16,12 @@
 </p>
 
 ---
+##graph 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph">
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake.svg"><img alt="github commit snake" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake.svg"></picture>
+
+<img src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/github-metrics.svg" alt="GitHub Metrics">
 
 
 ### 🚀 About Me
