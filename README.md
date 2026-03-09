@@ -17,8 +17,8 @@
 
 ---
 ##graph 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=synthwave&hide_border=true&area=true" alt="GitHub Activity Graph">
 
 
 ### 🚀 About Me
