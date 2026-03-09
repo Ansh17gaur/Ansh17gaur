@@ -19,14 +19,6 @@
 </p>
 
 ---
-##CHESS
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&bg_color=030b17&color=00f2fe&line=00f2fe&point=ffffff&area=true&area_color=00f2fe&hide_border=true" alt="GitHub Activity Graph">
-
-<img src="https://leetcard.jacoblin.cool/anshxgaur?theme=dark&ext=activity" alt="LeetCode Stats">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake.svg"><img alt="github commit snake" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake.svg"></picture>
-
-<img src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/github-metrics.svg" alt="GitHub Metrics">
 
 ## Graph 
 
