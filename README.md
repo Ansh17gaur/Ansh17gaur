@@ -18,8 +18,7 @@
 ---
 ## Graph 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&bg_color=030b17&color=00f2fe&line=00f2fe&point=ffffff&area=true&area_color=00f2fe&hide_border=true" alt="GitHub Activity Graph">
 ### 🚀 About Me
 
 - 🔭 **Currently working on:** Automated LeetCode streak trackers and data pipelines.
