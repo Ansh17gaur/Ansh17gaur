@@ -1,3 +1,6 @@
+## border light
+<img src="glow.svg" alt="Glowing Neon Banner">
+
 <p align="center">
   <a href="mailto:ansh1291g@gmail.com"><img src="https://img.shields.io/badge/Email-7dcfff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://github.com/Ansh17gaur"><img src="https://img.shields.io/badge/GitHub-bb9af7?style=for-the-badge&logo=github&logoColor=black" /></a>
@@ -26,5 +29,4 @@
 - 💬 **Ask me about:** Python automation, scraping, and logic building.
 - 📫 **Reach me at:** [ansh1291g@gmail.com](mailto:ansh1291g@gmail.com)
 
-## border light
-<img src="glow.svg" alt="Glowing Neon Banner">
+
