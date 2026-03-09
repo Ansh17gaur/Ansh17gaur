@@ -27,4 +27,4 @@
 - 📫 **Reach me at:** [ansh1291g@gmail.com](mailto:ansh1291g@gmail.com)
 
 ## border light
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200"><defs><filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="8" result="blur" /><feComposite in="SourceGraphic" in2="blur" operator="over" /></filter></defs><rect x="15" y="15" width="770" height="170" fill="#030b17" stroke="#00f2fe" stroke-width="5" filter="url(#glow)" rx="15" /><text x="50%" y="50%" fill="#00f2fe" font-family="sans-serif" font-size="28" font-weight="bold" text-anchor="middle" dominant-baseline="middle">Welcome to My Futuristic Hub</text></svg>
+<img src="glow.svg" alt="Glowing Neon Banner">
