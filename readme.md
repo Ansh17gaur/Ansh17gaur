@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/Ansh17gaur">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ansh17gaur&show_icons=true&theme=transparent&hide_border=false&border_color=00D4FF&text_color=00D4FF&icon_color=00D4FF&title_color=00D4FF&bg_color=0D1117&border_radius=15" 
-         style="filter: drop-shadow(0px 0px 8px #00D4FF); width: 450px;" 
-         alt="Ansh's DNA" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh17gaur&layout=donut&theme=transparent&text_color=00FBFF&title_color=00FBFF&icon_color=00FBFF&hide_border=false&border_color=00FBFF&bg_color=0D1117" 
+         style="filter: drop-shadow(0px 0px 8px #00FBFF); width: 350px;" 
+         alt="Ansh's Tech Radar" />
   </a>
 </div>
