@@ -51,7 +51,7 @@ jobs:
       - name: Commit SVG
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "github-actions"
+          git config --local user.name "Ansh17gaur"
           git add assets/glow-box.svg
           git commit -m "Update glowing box" || echo "No changes"
           git push
