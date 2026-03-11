@@ -1,0 +1,57 @@
+name: Generate Glowing Box
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate SVG
+        run: |
+          mkdir -p assets
+          cat << 'EOF' > assets/glow-box.svg
+          <svg width="700" height="180" xmlns="http://www.w3.org/2000/svg">
+          
+          <defs>
+          <filter id="glow">
+              <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+              <feMerge>
+                  <feMergeNode in="coloredBlur"/>
+                  <feMergeNode in="SourceGraphic"/>
+              </feMerge>
+          </filter>
+          </defs>
+
+          <rect x="10" y="10" width="680" height="160"
+          fill="#0d1117"
+          stroke="#00e5ff"
+          stroke-width="3"
+          rx="15"
+          filter="url(#glow)"/>
+
+          <text x="50%" y="50%"
+          dominant-baseline="middle"
+          text-anchor="middle"
+          fill="#00e5ff"
+          font-size="28"
+          font-family="monospace">
+          Welcome to My GitHub
+          </text>
+
+          </svg>
+          EOF
+
+      - name: Commit SVG
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git add assets/glow-box.svg
+          git commit -m "Update glowing box" || echo "No changes"
+          git push
