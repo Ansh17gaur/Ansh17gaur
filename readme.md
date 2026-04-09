@@ -222,15 +222,3 @@ Redis | Docker | Kubernetes
 </div>
 
 ---
-
-<!-- 🎮 Competitive Programming -->
-<div align="center">
-
-## 🎯 Competitive Programming
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🟠 LeetCode Stats
-<img src="https://leetcard.jacoblin.cool/anshgaurx?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
