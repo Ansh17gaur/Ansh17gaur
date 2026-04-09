@@ -31,8 +31,7 @@ const anshGaur = {
 
 ---
 
-<!-- 🔥 GitHub Stats Dashboard -->
-<div align="center">
+
 
 ## ⚡ GitHub Analytics
 
