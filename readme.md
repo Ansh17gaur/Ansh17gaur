@@ -1,202 +1,1039 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Ansh%20Gaur&fontSize=56&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=60&color=0:0D1117,55:111827,100:00D9FF&fontColor=FFFFFF&descColor=9EEBFF" alt="Ansh Gaur profile header" />
-</p>
+# Smart Resource Allocation & Volunteer Coordination Platform
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=2nd-year+CSE+(Data+Science)+student;Building+Python%2C+ML%2C+LLM%2C+and+RAG+systems;Turning+raw+data+into+usable+AI+products" alt="Typing introduction" />
-</p>
+> AI-powered platform that collects community needs, detects urgent cases, matches volunteers, allocates resources, and gives NGOs a live decision dashboard.
 
-<p align="center">
-  <a href="mailto:anshgaurx@gmail.com"><img src="https://img.shields.io/badge/Email-anshgaurx%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ansh-gaur-46b7a4378/"><img src="https://img.shields.io/badge/LinkedIn-Ansh%20Gaur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/anshxgaur"><img src="https://img.shields.io/badge/GitHub-anshxgaur-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=anshxgaur&style=for-the-badge&color=00D9FF" alt="Profile views" />
-</p>
+![Flutter](https://img.shields.io/badge/Frontend-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Auth%20%26%20Realtime-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Cloud-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AI ML](https://img.shields.io/badge/AI%2FML-Vertex_AI-8E24AA?style=for-the-badge&logo=googlecloud&logoColor=white)
 
----
+## What This Project Does
 
-## About Me
+This project helps NGOs and community teams convert scattered information from surveys, field reports, spreadsheets, and mobile inputs into clear action. It identifies urgent local needs, recommends volunteer-task matches, tracks resources, sends alerts, and shows live analytics for better response planning.
 
-I am a B.Tech Computer Science and Engineering student specializing in Data Science at PSIT Kanpur. I build practical AI systems with Python, machine learning, FastAPI, data pipelines, dashboards, and early-stage LLM/RAG architectures.
+## Core Highlights
 
-My current focus is becoming internship-ready for AI/ML Engineering, Data Science, Python Backend, and Generative AI roles.
+| Area | What It Handles |
+| --- | --- |
+| Data Collection | Forms, mobile inputs, field reports, CSV/Excel uploads, OCR survey scans |
+| Intelligence | Need classification, priority scoring, risk analysis, prediction |
+| Coordination | Volunteer profiles, skill matching, task assignment, route/location support |
+| Operations | Resource allocation, shortage alerts, status tracking, emergency broadcasts |
+| Analytics | Live heatmaps, volunteer status, resource reports, emergency dashboards |
 
-<table>
-  <tr>
-    <td><b>Current stage</b></td>
-    <td>2nd-year CSE Data Science undergraduate</td>
-  </tr>
-  <tr>
-    <td><b>Core stack</b></td>
-    <td>Python, SQL, TypeScript, FastAPI, Flask, Pandas, NumPy, Scikit-learn</td>
-  </tr>
-  <tr>
-    <td><b>AI interests</b></td>
-    <td>Machine learning, NLP, anomaly detection, RAG, local LLM systems, analytics dashboards</td>
-  </tr>
-  <tr>
-    <td><b>Open to</b></td>
-    <td>Remote internships and Delhi/NCR/Meerut/Kanpur office or hybrid internships</td>
-  </tr>
-</table>
-
----
-
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/anshxgaur/nexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshxgaur&repo=nexus&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF" alt="Nexus repository card" />
-  </a>
-  <a href="https://github.com/anshxgaur/DAISY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshxgaur&repo=DAISY&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF" alt="DAISY repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anshxgaur/NOVA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshxgaur&repo=NOVA&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF" alt="NOVA repository card" />
-  </a>
-  <a href="https://github.com/anshxgaur/F1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshxgaur&repo=F1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF" alt="F1 repository card" />
-  </a>
-</p>
-
-### Project Breakdown
-
-| Project | What It Solves | Tech / Concepts | Why It Matters |
-|---|---|---|---|
-| [Nexus Workspace](https://github.com/anshxgaur/nexus) | Self-hosted AI-powered corporate workspace with team chat, meetings, live transcription, RAG search, and task extraction. | FastAPI, React, Tauri, TailwindCSS, Zustand, PostgreSQL, Redis, Qdrant, Whisper, LiveKit, Ollama, WebSockets | Shows system design thinking: backend APIs, real-time communication, vector search, local LLM integration, and multi-service architecture. |
-| [DAISY](https://github.com/anshxgaur/DAISY) | Healthcare data intelligence system for EDA, disease prediction, risk stratification, and clinical decision support. | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, ML pipelines, model evaluation | Strong fit for data science internships because it connects ML models to a real domain problem with interpretable outcomes. |
-| [NOVA](https://github.com/anshxgaur/NOVA) | Personal AI assistant architecture focused on local inference, voice interaction, security checks, and task orchestration. | TypeScript, AI architecture, STT/TTS pipeline, prompt-injection defense, modular orchestration | Demonstrates interest in GenAI beyond prompting: local-first design, secure AI flow, and agent-like task routing. |
-| [F1 Data Analytics](https://github.com/anshxgaur/F1) | Formula 1 analytics platform for tire degradation, pit-window reasoning, and driver performance comparison. | TypeScript, Next.js, data visualization, analytics dashboards, strategy modeling | Shows you can turn complex datasets into interactive decision-support products. |
-
----
-
-## What I Build
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>Machine Learning Pipelines</h3>
-      <p>EDA, preprocessing, feature engineering, model training, evaluation, and deployment-ready APIs.</p>
-    </td>
-    <td width="33%">
-      <h3>LLM and RAG Systems</h3>
-      <p>Document search, embeddings, vector databases, prompt design, local LLM flows, and retrieval-based assistants.</p>
-    </td>
-    <td width="33%">
-      <h3>Data Products</h3>
-      <p>Dashboards, analytics workflows, visual reports, and API-backed tools that make data easier to act on.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,flask,react,nextjs,tailwind,postgres,redis,docker,git,github,vscode&perline=13" alt="Tech stack icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge" alt="ChromaDB" />
-</p>
-
----
-
-## Internship Readiness
-
-| Target Role | I Can Show | Next Skill I Am Sharpening |
-|---|---|---|
-| AI/ML Intern | ML pipelines, anomaly detection, healthcare analytics, model evaluation | Better experiment tracking and model comparison |
-| GenAI / LLM Intern | RAG architecture, local LLM workflow, prompt-safety thinking | LangChain/LlamaIndex projects with vector search |
-| Python Developer Intern | FastAPI/Flask APIs, automation scripts, data processing | Testing, Docker, and production-style API structure |
-| Data Science Intern | EDA, visualizations, predictive modeling, SQL basics | Stronger SQL case studies and dashboard deployment |
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anshxgaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshxgaur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshxgaur&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshxgaur&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Contribution activity graph" />
-</p>
-
----
-
-## Generated Profile Assets
-
-These sections update through GitHub Actions.
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-contribution-grid-snake.svg" />
-</picture>
-
-### 3D Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</p>
-
-### Advanced Metrics
-
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub profile metrics" />
-</p>
-
----
-
-## Certifications and Achievements
-
-- IBM Data Science Professional Certificate
-- IBM Generative AI Engineering Certificate
-- Generative AI for Data Science
-- Mathematics for Machine Learning
-- 3rd Position, GGSIPU Hackathon HACKXTREME
-- Participant: PROTODASH IISc, CODEFEST NIT Durgapur, ECLIPSE 6.0 Thapar Institute
-
----
-
-## Current Mission
+## Visual Architecture
 
 ```mermaid
-flowchart LR
-    A[Strong Python fundamentals] --> B[ML projects with metrics]
-    B --> C[FastAPI deployment]
-    C --> D[RAG and LLM systems]
-    D --> E[Internship-ready AI portfolio]
+flowchart TD
+    A["Client Layer<br/><sub>Web, Mobile, NGO Dashboard, Volunteer App</sub>"]
+    B["Data Collection<br/><sub>Forms, Reports, CSV Uploads, OCR, Mobile Inputs</sub>"]
+    C["Backend APIs<br/><sub>Spring Boot, Auth, Uploads, Validation</sub>"]
+    D["Cloud Storage<br/><sub>Firestore, Cloud Storage, SQL</sub>"]
+    E["ETL Processing<br/><sub>Clean, Normalize, Deduplicate, Transform</sub>"]
+    F["AI/ML Engine<br/><sub>Classify, Prioritize, Predict, Match</sub>"]
+    G["Allocation Engine<br/><sub>Tasks, Volunteers, Resources, Geo Optimization</sub>"]
+    H["Notifications<br/><sub>SMS, Push, Email, Emergency Broadcasts</sub>"]
+    I["Analytics Dashboard<br/><sub>Heatmaps, Status, Tracking, Reports</sub>"]
+
+    A --> B --> C --> D --> E --> F --> G --> H --> I
+
+    classDef client fill:#E3F2FD,stroke:#1E88E5,color:#0D47A1,stroke-width:2px
+    classDef data fill:#E8F5E9,stroke:#43A047,color:#1B5E20,stroke-width:2px
+    classDef backend fill:#FFF3E0,stroke:#FB8C00,color:#E65100,stroke-width:2px
+    classDef cloud fill:#F3E5F5,stroke:#8E24AA,color:#4A148C,stroke-width:2px
+    classDef ai fill:#FCE4EC,stroke:#D81B60,color:#880E4F,stroke-width:2px
+    classDef ops fill:#E0F7FA,stroke:#00ACC1,color:#006064,stroke-width:2px
+    classDef notify fill:#FFFDE7,stroke:#FDD835,color:#5D4037,stroke-width:2px
+    classDef analytics fill:#ECEFF1,stroke:#546E7A,color:#263238,stroke-width:2px
+
+    class A client
+    class B,E data
+    class C backend
+    class D cloud
+    class F ai
+    class G ops
+    class H notify
+    class I analytics
 ```
 
----
+## Main User Roles
 
-<p align="center">
-  <b>Open to AI/ML, Data Science, Python Developer, and GenAI internships.</b>
-  <br />
-  <a href="mailto:anshgaurx@gmail.com">anshgaurx@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/ansh-gaur-46b7a4378/">LinkedIn</a> |
-  <a href="https://github.com/anshxgaur">GitHub</a>
-</p>
+| Role | Main Use |
+| --- | --- |
+| Community Member | Submit needs and requests |
+| Volunteer | Accept tasks, navigate to locations, submit feedback |
+| Coordinator | Upload data, approve matches, manage local operations |
+| NGO Admin | Monitor needs, resources, volunteers, and reports |
+| System Admin | Manage roles, security, configuration, and audits |
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,100:0D1117" alt="Footer wave" />
-</p>
+## MVP Scope
+
+- Authentication with role-based access.
+- Need report submission and CSV/Excel upload.
+- Basic ETL cleaning and duplicate detection.
+- Priority scoring and need classification.
+- Volunteer profile, skills, availability, and GPS support.
+- Task assignment with coordinator approval.
+- Push notifications and emergency alerts.
+- NGO/admin dashboard with heatmap and reports.
+
+## Technology Stack
+
+| Layer | Recommended Stack |
+| --- | --- |
+| Frontend | Flutter, Flutter Web |
+| Backend | Spring Boot REST APIs, Google Cloud Functions |
+| Auth | Firebase Auth, Spring Security, JWT |
+| Database | Firestore, PostgreSQL/MySQL, BigQuery |
+| Storage | Google Cloud Storage |
+| AI/ML | Vertex AI, TensorFlow, Google Cloud AI APIs |
+| Notifications | Firebase Cloud Messaging, SMS Gateway, Email Service |
+| DevOps | GitHub Actions, Docker, Google Cloud Platform |
+
+## Roadmap
+
+```mermaid
+timeline
+    title Development Roadmap
+    Phase 1 : Requirements
+            : Architecture
+            : Firebase and GCP setup
+    Phase 2 : Data forms
+            : CSV upload
+            : File and OCR pipeline
+    Phase 3 : ETL cleaning
+            : Normalization
+            : Duplicate removal
+    Phase 4 : AI classification
+            : Priority scoring
+            : Risk prediction
+    Phase 5 : Volunteer profiles
+            : Matching algorithm
+            : Task assignment
+    Phase 6 : Resource inventory
+            : Geo optimization
+            : Notifications
+    Phase 7 : Dashboards
+            : Security
+            : Testing and deployment
+```
+
+## Data Flow
+
+```mermaid
+flowchart TD
+    U["Community / NGO / Field Worker"]
+    IN["Submit report, survey, file, or mobile input"]
+    API["Backend validation and storage"]
+    ETL["Clean and normalize data"]
+    AI["AI priority and classification"]
+    MATCH["Volunteer and resource matching"]
+    ALERT["Notify assigned users"]
+    DASH["Update dashboard and reports"]
+
+    U --> IN --> API --> ETL --> AI --> MATCH --> ALERT --> DASH
+
+    classDef start fill:#E3F2FD,stroke:#1E88E5,color:#0D47A1,stroke-width:2px
+    classDef process fill:#E8F5E9,stroke:#43A047,color:#1B5E20,stroke-width:2px
+    classDef smart fill:#FCE4EC,stroke:#D81B60,color:#880E4F,stroke-width:2px
+    classDef end fill:#FFF3E0,stroke:#FB8C00,color:#E65100,stroke-width:2px
+
+    class U,IN start
+    class API,ETL process
+    class AI,MATCH smart
+    class ALERT,DASH end
+```
+
+<details>
+<summary><strong>Open Full Detailed Documentation</strong></summary>
+
+## Detailed Layer Documentation
+
+### 1. Client Layer
+
+The client layer provides all user-facing interfaces.
+
+#### Web Portal
+
+Used by administrators, NGOs, coordinators, and stakeholders to access dashboards, reports, user management, and system-level operations.
+
+#### Mobile App
+
+Used by field teams and coordinators to submit needs, upload images, capture GPS location, and work in low-connectivity areas.
+
+#### NGO Dashboard
+
+Used by NGO teams to upload datasets, view analytics, manage volunteers, approve task matches, and monitor community-level needs.
+
+#### Volunteer App
+
+Used by volunteers to create profiles, tag skills, receive tasks, accept assignments, navigate to locations, and submit completion feedback.
+
+### 2. Data Collection Layer
+
+This layer collects data from multiple channels.
+
+#### Online Forms
+
+Structured forms for community needs such as food, water, medical help, education support, shelter, sanitation, or emergency assistance.
+
+#### Field Reports
+
+Reports submitted by coordinators or volunteers. These may include structured fields, unstructured notes, images, documents, and location details.
+
+#### NGO Excel/CSV Uploads
+
+Bulk uploads from existing NGO databases and spreadsheets. The system should validate schema, detect missing values, and map columns to a standard format.
+
+#### OCR Scanner for Paper Surveys
+
+Paper surveys are scanned and converted into digital text using OCR. The extracted data then moves into validation and cleaning.
+
+#### Mobile Inputs
+
+Real-time or offline-first submissions from field workers and volunteers using mobile devices.
+
+### 3. API & Backend Services
+
+The backend handles business logic, authentication, validation, file processing, and communication between clients and storage services.
+
+#### Spring Boot REST APIs
+
+Core APIs for users, needs, tasks, resources, volunteers, dashboards, reports, notifications, and admin functions.
+
+#### Authentication Service
+
+Handles login, registration, token validation, session management, and role-based access control.
+
+Recommended authentication options:
+
+- Firebase Authentication
+- JWT-based Spring Security
+- OAuth login for future expansion
+
+#### File Upload Service
+
+Handles CSV, Excel, image, document, and scanned survey uploads. Files are stored in Google Cloud Storage while metadata is stored in Firestore or SQL.
+
+#### Data Validation Service
+
+Validates required fields, location format, duplicate submissions, file type, file size, schema consistency, and suspicious input.
+
+### 4. Cloud Storage Layer
+
+This layer stores raw files, processed records, user profiles, tasks, and analytics-ready data.
+
+#### Firebase Firestore
+
+Recommended for real-time app data such as users, volunteers, tasks, task status, notifications, and dashboard updates.
+
+#### Google Cloud Storage
+
+Recommended for files such as scanned surveys, uploaded spreadsheets, images, reports, and exported documents.
+
+#### PostgreSQL / MySQL
+
+Recommended for structured relational data such as organizations, resources, audit logs, assignments, inventory, and reporting records.
+
+#### BigQuery
+
+Recommended for analytics, historical trend analysis, dashboard aggregation, and model training datasets.
+
+### 5. ETL Processing Layer
+
+The ETL layer converts messy incoming data into clean, unified, analysis-ready records.
+
+#### Data Cleaning
+
+- Remove invalid values.
+- Standardize spelling and category names.
+- Correct formatting issues.
+- Handle missing fields.
+- Validate phone numbers, addresses, and coordinates.
+
+#### Normalization
+
+- Convert all data sources into a common schema.
+- Normalize need categories such as health, food, water, sanitation, education, shelter, and logistics.
+- Normalize location information into village, ward, district, state, latitude, and longitude.
+
+#### Duplicate Removal
+
+- Detect duplicate reports from the same person, area, or time window.
+- Use fuzzy matching for names, addresses, and descriptions.
+- Merge duplicate records while preserving audit history.
+
+#### Data Transformation
+
+- Convert raw reports into structured need records.
+- Generate severity scores.
+- Extract keywords from text.
+- Prepare data for AI/ML models and dashboards.
+
+### 6. AI/ML Engine
+
+The AI/ML engine helps the system understand needs, prioritize urgency, and recommend actions.
+
+#### Priority Detection
+
+Calculates urgency based on:
+
+- Severity of the issue.
+- Number of affected people.
+- Frequency of similar reports.
+- Vulnerability of the population.
+- Time sensitivity.
+- Resource availability.
+
+#### Need Classification
+
+Classifies reports into categories such as:
+
+- Health
+- Food security
+- Clean water
+- Sanitation
+- Education
+- Shelter
+- Logistics
+- Emergency support
+
+#### Area Risk Analysis
+
+Identifies high-risk areas using:
+
+- Historical needs data.
+- Current report volume.
+- Seasonal patterns.
+- Population density.
+- Resource shortage trends.
+- Emergency signals.
+
+#### Volunteer Matching Algorithm
+
+Matches volunteers to tasks based on:
+
+- Skills
+- Availability
+- Distance from task location
+- Task urgency
+- Language
+- Past experience
+- Current workload
+- Safety constraints
+
+#### Prediction & Recommendation
+
+Predicts future needs and recommends:
+
+- Where resources may be required next.
+- Which areas need proactive attention.
+- Which resources should be stocked.
+- Which volunteers should be scheduled.
+- Which tasks should be escalated.
+
+### 7. Resource Allocation Engine
+
+This layer turns insights into action.
+
+#### Task Assignment
+
+Creates tasks from validated community needs and assigns them to volunteers, coordinators, or NGO teams.
+
+#### Volunteer Allocation
+
+Allocates volunteers based on suitability score, travel distance, workload balance, availability, and urgency.
+
+#### Resource Distribution
+
+Tracks inventory and distributes resources such as food kits, medicines, hygiene kits, educational material, water supply, and emergency items.
+
+#### Geo-location Optimization
+
+Uses location data to reduce travel time, group nearby tasks, and improve response speed.
+
+### 8. Notification System
+
+The notification layer keeps users informed in real time.
+
+#### SMS Alerts
+
+Used for urgent messages, low-connectivity users, and people without smartphones.
+
+#### Push Notifications
+
+Used in volunteer and coordinator apps for task alerts, status updates, reminders, and emergency broadcasts.
+
+#### Email Notifications
+
+Used for reports, admin alerts, stakeholder communication, and summary updates.
+
+#### Emergency Broadcasts
+
+Used to alert multiple users in a target location during floods, fires, disease outbreaks, food shortages, or other urgent situations.
+
+### 9. Analytics Dashboard
+
+The analytics dashboard gives decision-makers a live view of the system.
+
+#### Live Heatmaps
+
+Shows urgent needs by location and category.
+
+#### Volunteer Status
+
+Tracks available, assigned, busy, inactive, and completed-task volunteers.
+
+#### Resource Tracking
+
+Shows available stock, distributed resources, pending requests, shortages, and delivery status.
+
+#### Emergency Reports
+
+Generates reports for crisis response, NGO planning, donors, government collaboration, and internal review.
+
+## Application Features
+
+### Volunteer App Features
+
+- Profile creation.
+- Skill tagging.
+- Availability management.
+- GPS-based location sharing.
+- Task notifications.
+- Task acceptance or rejection.
+- Navigation to assigned locations.
+- Task progress updates.
+- Completion proof upload.
+- Feedback submission after task completion.
+
+### Coordinator App Features
+
+- Upload community needs data.
+- Submit field reports.
+- View dashboards and analytics.
+- Approve or adjust volunteer-task matches.
+- Manage local resources.
+- Generate reports for stakeholders.
+- Monitor emergency alerts.
+
+### Admin Dashboard Features
+
+- User management.
+- NGO management.
+- Role-based access control.
+- Data source management.
+- Task monitoring.
+- Resource inventory control.
+- AI model configuration.
+- Audit logs.
+- Security settings.
+
+### NGO Dashboard Features
+
+- Upload Excel/CSV datasets.
+- View need trends.
+- Track volunteer participation.
+- Monitor resource distribution.
+- Export reports.
+- Approve high-priority actions.
+
+## Security & Privacy
+
+- Use Firebase Authentication for secure login through email, phone, or social providers.
+- Implement role-based access control for volunteers, coordinators, NGO users, and admins.
+- Encrypt sensitive data using Google Cloud KMS.
+- Use HTTPS for all client-server communication.
+- Store passwords only through secure authentication providers.
+- Apply least-privilege access for services and users.
+- Maintain audit logs for sensitive operations.
+- Validate uploaded files before processing.
+- Protect personal data such as phone numbers, addresses, health-related reports, and GPS locations.
+- Follow applicable local data protection laws.
+
+## Scalability & Reliability
+
+- Deploy backend services on Google Cloud Functions or Cloud Run for scalable workloads.
+- Use Firebase Realtime Database or Firestore listeners for instant updates.
+- Implement offline-first Flutter capabilities for poor-connectivity areas.
+- Use retry queues for failed notifications, uploads, and processing jobs.
+- Use Google Cloud Monitoring and Logging for system health tracking.
+- Add automated backups for databases and storage buckets.
+- Use CI/CD pipelines for reliable deployments.
+
+## AI-Powered Enhancements
+
+- Chatbot assistant for volunteers and coordinators using Dialogflow, Vertex AI, or another AI assistant framework.
+- Predictive analytics for resource shortages.
+- Sentiment analysis on community feedback.
+- Smart scheduling to avoid volunteer burnout.
+- Multilingual report understanding.
+- AI-driven fundraising recommendations.
+- Automatic summarization of field reports.
+
+## Future Extensions
+
+- Government open data portal integration.
+- Blockchain-based transparency for resource distribution.
+- AI-driven fundraising recommendations.
+- Multi-language support for diverse communities.
+- IoT integration for real-time environmental or supply monitoring.
+- Public transparency dashboard for non-sensitive aggregated data.
+
+## Recommended Technology Stack
+
+| Layer | Recommended Technologies |
+| --- | --- |
+| Frontend | Flutter, Flutter Web |
+| Backend | Spring Boot REST APIs, Firebase Functions, Google Cloud Functions |
+| Authentication | Firebase Auth, Spring Security, JWT |
+| Database | Firestore, PostgreSQL, MySQL |
+| Analytics | BigQuery, Looker Studio, custom dashboard |
+| File Storage | Google Cloud Storage |
+| AI/ML | Google Cloud AI APIs, TensorFlow, Vertex AI |
+| Notifications | Firebase Cloud Messaging, SMS Gateway, Email Service |
+| Maps & Location | Google Maps API, Geolocation APIs |
+| DevOps | GitHub Actions, Docker, Google Cloud Platform |
+| Monitoring | Google Cloud Monitoring, Cloud Logging |
+| Security | Firebase Auth, Google Cloud KMS, IAM |
+
+## Core Data Entities
+
+### User
+
+- userId
+- name
+- phone
+- email
+- role
+- organizationId
+- location
+- status
+- createdAt
+
+### Volunteer
+
+- volunteerId
+- userId
+- skills
+- availability
+- currentLocation
+- preferredAreas
+- assignedTasks
+- completedTasks
+- rating
+- workloadStatus
+
+### Need Report
+
+- reportId
+- sourceType
+- submittedBy
+- category
+- description
+- location
+- severity
+- affectedPeople
+- attachments
+- validationStatus
+- priorityScore
+- createdAt
+
+### Task
+
+- taskId
+- needReportId
+- taskType
+- priority
+- assignedVolunteerId
+- status
+- location
+- requiredSkills
+- deadline
+- completionProof
+- feedback
+
+### Resource
+
+- resourceId
+- name
+- category
+- quantityAvailable
+- quantityAllocated
+- storageLocation
+- expiryDate
+- status
+
+### Notification
+
+- notificationId
+- recipientId
+- channel
+- title
+- message
+- status
+- sentAt
+
+## Data Flow
+
+```mermaid
+sequenceDiagram
+    participant Community as Community / NGO / Field Worker
+    participant Client as Web or Mobile Client
+    participant API as Backend API
+    participant Storage as Storage Layer
+    participant ETL as ETL Pipeline
+    participant AI as AI/ML Engine
+    participant Allocation as Resource Allocation Engine
+    participant Notify as Notification System
+    participant Dashboard as Analytics Dashboard
+
+    Community->>Client: Submit need report, file, survey, or mobile input
+    Client->>API: Send validated request
+    API->>Storage: Store raw data and metadata
+    Storage->>ETL: Trigger cleaning and transformation
+    ETL->>AI: Send normalized records
+    AI->>AI: Classify need and calculate priority
+    AI->>Allocation: Recommend task, volunteer, and resource match
+    Allocation->>Storage: Save assignment and allocation
+    Allocation->>Notify: Trigger task/resource notifications
+    Notify->>Client: Send SMS, push, or email alert
+    Storage->>Dashboard: Provide live analytics data
+    Dashboard->>Community: Show heatmaps, status, and reports
+```
+
+## System Architecture With Services
+
+```mermaid
+flowchart TD
+    subgraph Clients["Client Applications"]
+        Web["Web Portal"]
+        Mobile["Flutter Mobile App"]
+        NGO["NGO Dashboard"]
+        Volunteer["Volunteer App"]
+    end
+
+    subgraph Gateway["API & Access"]
+        API["Spring Boot REST API"]
+        Auth["Authentication Service"]
+        Upload["File Upload Service"]
+        Validation["Data Validation Service"]
+    end
+
+    subgraph Storage["Storage & Data"]
+        Firestore["Firebase Firestore"]
+        GCS["Google Cloud Storage"]
+        SQL["PostgreSQL / MySQL"]
+        BigQuery["BigQuery"]
+    end
+
+    subgraph Processing["Processing"]
+        OCR["OCR Processing"]
+        ETL["ETL Pipeline"]
+        Dedup["Duplicate Detection"]
+        Normalize["Normalization"]
+    end
+
+    subgraph Intelligence["AI/ML Engine"]
+        NLP["NLP Need Extraction"]
+        Classifier["Need Classification"]
+        Priority["Priority Scoring"]
+        Risk["Area Risk Analysis"]
+        Matching["Volunteer Matching"]
+        Predict["Prediction & Recommendation"]
+    end
+
+    subgraph Operations["Operations"]
+        Tasks["Task Assignment"]
+        Resources["Resource Distribution"]
+        Geo["Geo Optimization"]
+        Notifications["SMS / Push / Email"]
+    end
+
+    subgraph Insights["Analytics"]
+        Heatmaps["Live Heatmaps"]
+        Reports["Emergency Reports"]
+        Tracking["Volunteer & Resource Tracking"]
+    end
+
+    Web --> API
+    Mobile --> API
+    NGO --> API
+    Volunteer --> API
+
+    API --> Auth
+    API --> Upload
+    API --> Validation
+
+    Upload --> GCS
+    Validation --> Firestore
+    Validation --> SQL
+
+    GCS --> OCR
+    Firestore --> ETL
+    SQL --> ETL
+    OCR --> ETL
+    ETL --> Dedup
+    Dedup --> Normalize
+    Normalize --> BigQuery
+    Normalize --> NLP
+
+    NLP --> Classifier
+    Classifier --> Priority
+    Priority --> Risk
+    Risk --> Matching
+    Predict --> Matching
+
+    Matching --> Tasks
+    Tasks --> Resources
+    Resources --> Geo
+    Geo --> Notifications
+
+    BigQuery --> Heatmaps
+    Firestore --> Tracking
+    SQL --> Reports
+
+    classDef clients fill:#E3F2FD,stroke:#1E88E5,color:#0D47A1,stroke-width:2px
+    classDef gateway fill:#FFF3E0,stroke:#FB8C00,color:#E65100,stroke-width:2px
+    classDef storage fill:#F3E5F5,stroke:#8E24AA,color:#4A148C,stroke-width:2px
+    classDef processing fill:#E8F5E9,stroke:#43A047,color:#1B5E20,stroke-width:2px
+    classDef intelligence fill:#FCE4EC,stroke:#D81B60,color:#880E4F,stroke-width:2px
+    classDef operations fill:#E0F7FA,stroke:#00ACC1,color:#006064,stroke-width:2px
+    classDef insights fill:#ECEFF1,stroke:#546E7A,color:#263238,stroke-width:2px
+
+    class Web,Mobile,NGO,Volunteer clients
+    class API,Auth,Upload,Validation gateway
+    class Firestore,GCS,SQL,BigQuery storage
+    class OCR,ETL,Dedup,Normalize processing
+    class NLP,Classifier,Priority,Risk,Matching,Predict intelligence
+    class Tasks,Resources,Geo,Notifications operations
+    class Heatmaps,Reports,Tracking insights
+```
+
+## Project Roadmap
+
+### Phase 1: Foundation & Planning
+
+- Define users, roles, and permissions.
+- Finalize core modules and database schema.
+- Prepare UI wireframes for web, NGO dashboard, volunteer app, and coordinator app.
+- Set up GitHub repository and branching strategy.
+- Configure Firebase project and Google Cloud project.
+- Create initial Spring Boot backend structure.
+- Create Flutter app structure.
+
+### Phase 2: Data Ingestion & Storage
+
+- Build online forms for needs submission.
+- Build CSV/Excel upload module.
+- Add file upload support for images and paper survey scans.
+- Store files in Google Cloud Storage.
+- Store metadata in Firestore or SQL.
+- Add validation rules for required fields and supported file formats.
+- Create standard schema for community needs.
+
+### Phase 3: ETL & Data Quality
+
+- Build ETL jobs for cleaning and normalization.
+- Add duplicate detection.
+- Add category mapping.
+- Add location normalization.
+- Add audit trail for data changes.
+- Prepare analytics-ready tables.
+
+### Phase 4: AI/ML Analysis
+
+- Add NLP extraction for unstructured field reports.
+- Build need classification model or API integration.
+- Build priority scoring model.
+- Add risk analysis by area.
+- Add prediction model for future needs and resource shortages.
+- Evaluate model accuracy using test datasets.
+
+### Phase 5: Volunteer Coordination
+
+- Build volunteer profile module.
+- Add skill tagging and availability management.
+- Add GPS-based location support.
+- Build task creation and assignment system.
+- Add volunteer-task matching algorithm.
+- Allow coordinators to approve or adjust recommendations.
+- Add task status updates and completion feedback.
+
+### Phase 6: Resource Allocation
+
+- Build resource inventory module.
+- Track available, allocated, delivered, and exhausted resources.
+- Link resources to need reports and tasks.
+- Add geo-location optimization for delivery planning.
+- Add shortage alerts.
+
+### Phase 7: Notifications
+
+- Configure Firebase Cloud Messaging.
+- Add push notification support.
+- Add SMS gateway integration.
+- Add email notification service.
+- Build emergency broadcast module.
+- Add retry handling for failed notifications.
+
+### Phase 8: Dashboards & Analytics
+
+- Build admin dashboard.
+- Build NGO dashboard.
+- Add live heatmaps.
+- Add volunteer status charts.
+- Add resource tracking charts.
+- Add emergency report generation.
+- Add BigQuery integration for analytics.
+
+### Phase 9: Security, Privacy & Compliance
+
+- Add Firebase Authentication.
+- Add role-based access control.
+- Add encryption for sensitive fields.
+- Configure Google Cloud KMS.
+- Add audit logs.
+- Add privacy controls for location and personal data.
+- Review local data protection compliance.
+
+### Phase 10: Testing & Deployment
+
+- Write unit tests for backend services.
+- Write integration tests for API flows.
+- Test Flutter mobile and web UI.
+- Perform security testing.
+- Run pilot testing with selected NGOs and volunteers.
+- Set up CI/CD using GitHub Actions.
+- Deploy backend to Google Cloud.
+- Deploy web app to Firebase Hosting.
+- Roll out in phases: pilot, regional, national.
+
+## Timeline
+
+```mermaid
+gantt
+    title Project Development Timeline
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %d
+
+    section Planning
+    Requirements & Scope              :a1, 2026-05-22, 7d
+    Architecture & Data Model          :a2, after a1, 7d
+
+    section Foundation
+    Firebase & GCP Setup               :b1, after a2, 5d
+    Spring Boot Backend Setup          :b2, after a2, 7d
+    Flutter App Setup                  :b3, after a2, 7d
+
+    section Data Platform
+    Data Ingestion APIs                :c1, after b2, 10d
+    File Upload & OCR Pipeline         :c2, after c1, 10d
+    ETL Cleaning & Normalization       :c3, after c1, 14d
+
+    section Intelligence
+    Need Classification                :d1, after c3, 10d
+    Priority Scoring                   :d2, after d1, 7d
+    Risk Analysis & Prediction         :d3, after d2, 10d
+
+    section Operations
+    Volunteer Profiles & Availability  :e1, after b3, 10d
+    Task Assignment Engine             :e2, after d2, 10d
+    Resource Allocation Engine         :e3, after e2, 10d
+    Notification System                :e4, after e2, 7d
+
+    section Dashboards
+    NGO & Admin Dashboard              :f1, after c3, 14d
+    Heatmaps & Reports                 :f2, after f1, 10d
+
+    section Hardening
+    Security & Privacy                 :g1, after e4, 10d
+    Testing & Bug Fixing               :g2, after f2, 14d
+    Pilot Deployment                   :g3, after g2, 14d
+```
+
+## Suggested Repository Structure
+
+```text
+smart-resource-allocation-platform/
+├── backend/
+│   ├── src/main/java/
+│   ├── src/main/resources/
+│   ├── src/test/
+│   └── pom.xml
+├── mobile_app/
+│   ├── lib/
+│   ├── test/
+│   └── pubspec.yaml
+├── web_dashboard/
+│   ├── lib/
+│   ├── web/
+│   └── pubspec.yaml
+├── ml_engine/
+│   ├── notebooks/
+│   ├── models/
+│   ├── pipelines/
+│   └── requirements.txt
+├── cloud_functions/
+│   ├── notifications/
+│   ├── file_processing/
+│   └── etl_triggers/
+├── docs/
+│   ├── architecture.md
+│   ├── api-specification.md
+│   ├── database-schema.md
+│   └── deployment-guide.md
+├── diagrams/
+│   └── architecture.mmd
+├── .github/workflows/
+│   └── ci-cd.yml
+└── README.md
+```
+
+## API Modules
+
+### Authentication APIs
+
+- Register user
+- Login user
+- Refresh token
+- Logout user
+- Get current profile
+- Update role and permissions
+
+### Need Report APIs
+
+- Create need report
+- Upload report attachment
+- Get reports by location
+- Get reports by category
+- Validate report
+- Mark duplicate report
+- Update priority score
+
+### Volunteer APIs
+
+- Create volunteer profile
+- Update skills
+- Update availability
+- Update location
+- Get assigned tasks
+- Accept or reject task
+- Submit task feedback
+
+### Task APIs
+
+- Create task
+- Assign task
+- Reassign task
+- Update task status
+- Upload completion proof
+- Close task
+
+### Resource APIs
+
+- Add resource
+- Update inventory
+- Allocate resource
+- Track delivery
+- Mark shortage
+- Generate inventory report
+
+### Dashboard APIs
+
+- Get heatmap data
+- Get volunteer availability summary
+- Get resource summary
+- Get emergency reports
+- Get prediction insights
+
+## Matching Score Example
+
+A simple initial volunteer matching score can be calculated as:
+
+```text
+matchingScore =
+  skillMatchScore * 0.35 +
+  distanceScore * 0.25 +
+  availabilityScore * 0.20 +
+  urgencyScore * 0.10 +
+  workloadBalanceScore * 0.10
+```
+
+The algorithm can later be improved using historical completion data, volunteer reliability, safety constraints, and feedback ratings.
+
+## Required Skills For Team Members
+
+### Core Technical Skills
+
+- Programming languages: Java, Python, JavaScript, or Dart.
+- Data structures and algorithms.
+- Git and GitHub.
+- REST API integration.
+- SQL and NoSQL databases.
+- Frontend development with Flutter.
+- Backend development with Spring Boot.
+- Cloud platforms, especially Google Cloud Platform.
+- DevOps and CI/CD using GitHub Actions.
+- Testing with unit, integration, and automated UI tests.
+
+### Supporting Skills
+
+- Software architecture.
+- Security best practices.
+- Documentation.
+- Agile project management.
+- Communication with non-technical stakeholders.
+- Debugging and troubleshooting.
+
+### Advanced Skills
+
+- Machine learning and AI integration.
+- NLP for text understanding.
+- Serverless computing.
+- Geo-spatial optimization.
+- Data analytics and visualization.
+- Blockchain or public audit trail design for future transparency.
+
+## Minimum Viable Product
+
+The MVP should include:
+
+- User authentication.
+- Volunteer and coordinator roles.
+- Need report submission.
+- CSV/Excel upload.
+- Basic validation and storage.
+- Simple priority scoring.
+- Volunteer profile and availability.
+- Basic task assignment.
+- Push notifications.
+- NGO/admin dashboard.
+- Heatmap or location-based need view.
+- Basic reports.
+
+## Success Metrics
+
+- Reduction in time taken to identify urgent needs.
+- Increase in successful volunteer-task matches.
+- Reduction in duplicate reports.
+- Faster resource delivery time.
+- Higher volunteer participation rate.
+- Improved visibility for NGOs and coordinators.
+- Accurate prediction of resource shortages.
+- Reliable dashboard usage during emergency response.
+
+## Deployment Strategy
+
+1. Local development using Firebase emulator, local Spring Boot server, and Flutter debug builds.
+2. Staging environment on Google Cloud for integration testing.
+3. Pilot deployment with selected NGOs and volunteer groups.
+4. Regional deployment after feedback and bug fixes.
+5. National or large-scale deployment with monitoring, backups, and support processes.
+
+## Conclusion
+
+This platform combines data collection, cloud storage, ETL processing, AI/ML intelligence, volunteer coordination, resource allocation, notifications, and analytics into one connected system. Its main purpose is to help NGOs and community organizations respond faster, allocate resources more fairly, and make decisions based on reliable real-time data.
+
+</details>
